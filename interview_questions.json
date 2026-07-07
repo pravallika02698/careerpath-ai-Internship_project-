@@ -1,0 +1,132 @@
+{
+  "courses": {
+    "python": [
+      {"name": "Python for Everybody Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/python", "type": "Beginner"},
+      {"name": "Complete Python Bootcamp: From Zero to Hero", "platform": "Udemy", "url": "https://www.udemy.com/course/complete-python-bootcamp/", "type": "Beginner"},
+      {"name": "Python Data Structures", "platform": "Coursera", "url": "https://www.coursera.org/learn/python-data", "type": "Intermediate"}
+    ],
+    "machine learning": [
+      {"name": "Machine Learning Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/machine-learning-introduction", "type": "Beginner"},
+      {"name": "Machine Learning A-Z", "platform": "Udemy", "url": "https://www.udemy.com/course/machinelearning/", "type": "Intermediate"},
+      {"name": "Hands-On Machine Learning with Scikit-Learn", "platform": "O'Reilly", "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/", "type": "Intermediate"}
+    ],
+    "deep learning": [
+      {"name": "Deep Learning Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/deep-learning", "type": "Intermediate"},
+      {"name": "PyTorch for Deep Learning", "platform": "Udemy", "url": "https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/", "type": "Intermediate"},
+      {"name": "Fast.ai Practical Deep Learning", "platform": "fast.ai", "url": "https://course.fast.ai/", "type": "Intermediate"}
+    ],
+    "tensorflow": [
+      {"name": "TensorFlow Developer Certificate", "platform": "Coursera", "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice", "type": "Intermediate"},
+      {"name": "TensorFlow 2.0 Complete Course", "platform": "Udemy", "url": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/", "type": "Intermediate"}
+    ],
+    "pytorch": [
+      {"name": "PyTorch for Deep Learning Bootcamp", "platform": "Udemy", "url": "https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/", "type": "Intermediate"},
+      {"name": "Deep Learning with PyTorch", "platform": "Coursera", "url": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch", "type": "Intermediate"}
+    ],
+    "sql": [
+      {"name": "SQL for Data Science", "platform": "Coursera", "url": "https://www.coursera.org/learn/sql-for-data-science", "type": "Beginner"},
+      {"name": "The Complete SQL Bootcamp", "platform": "Udemy", "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/", "type": "Beginner"},
+      {"name": "SQL and Database Design A-Z", "platform": "Udemy", "url": "https://www.udemy.com/course/sqldatabases/", "type": "Intermediate"}
+    ],
+    "data analysis": [
+      {"name": "Data Analysis with Python", "platform": "Coursera", "url": "https://www.coursera.org/learn/data-analysis-with-python", "type": "Beginner"},
+      {"name": "Pandas & Python for Data Analysis", "platform": "Udemy", "url": "https://www.udemy.com/course/data-analysis-with-pandas/", "type": "Beginner"}
+    ],
+    "data visualization": [
+      {"name": "Data Visualization with Python", "platform": "Coursera", "url": "https://www.coursera.org/learn/python-for-data-visualization", "type": "Beginner"},
+      {"name": "Tableau 2020 A-Z", "platform": "Udemy", "url": "https://www.udemy.com/course/tableau10/", "type": "Beginner"}
+    ],
+    "nlp": [
+      {"name": "Natural Language Processing Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/natural-language-processing", "type": "Intermediate"},
+      {"name": "NLP with Python for Machine Learning", "platform": "Udemy", "url": "https://www.udemy.com/course/nlp-natural-language-processing-with-python/", "type": "Intermediate"}
+    ],
+    "javascript": [
+      {"name": "JavaScript: The Complete Guide", "platform": "Udemy", "url": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/", "type": "Beginner"},
+      {"name": "The Complete JavaScript Course", "platform": "Udemy", "url": "https://www.udemy.com/course/the-complete-javascript-course/", "type": "Beginner"}
+    ],
+    "react": [
+      {"name": "React - The Complete Guide", "platform": "Udemy", "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/", "type": "Intermediate"},
+      {"name": "Full Stack Open", "platform": "University of Helsinki", "url": "https://fullstackopen.com/", "type": "Intermediate"}
+    ],
+    "node.js": [
+      {"name": "The Complete Node.js Developer Course", "platform": "Udemy", "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/", "type": "Intermediate"},
+      {"name": "Node.js, Express, MongoDB & More", "platform": "Udemy", "url": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/", "type": "Intermediate"}
+    ],
+    "docker": [
+      {"name": "Docker & Kubernetes: The Practical Guide", "platform": "Udemy", "url": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/", "type": "Intermediate"},
+      {"name": "Docker Mastery", "platform": "Udemy", "url": "https://www.udemy.com/course/docker-mastery/", "type": "Intermediate"}
+    ],
+    "kubernetes": [
+      {"name": "Kubernetes for the Absolute Beginners", "platform": "Udemy", "url": "https://www.udemy.com/course/learn-kubernetes/", "type": "Beginner"},
+      {"name": "Certified Kubernetes Administrator (CKA)", "platform": "Udemy", "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/", "type": "Advanced"}
+    ],
+    "aws": [
+      {"name": "AWS Certified Solutions Architect", "platform": "Udemy", "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/", "type": "Intermediate"},
+      {"name": "AWS Cloud Practitioner Essentials", "platform": "AWS", "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/", "type": "Beginner"}
+    ],
+    "git": [
+      {"name": "Git & GitHub Crash Course", "platform": "Udemy", "url": "https://www.udemy.com/course/git-and-github-bootcamp/", "type": "Beginner"},
+      {"name": "Version Control with Git", "platform": "Coursera", "url": "https://www.coursera.org/learn/version-control-with-git", "type": "Beginner"}
+    ],
+    "java": [
+      {"name": "Java Programming Masterclass", "platform": "Udemy", "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/", "type": "Beginner"},
+      {"name": "Java Programming and Software Engineering Fundamentals", "platform": "Coursera", "url": "https://www.coursera.org/specializations/java-programming", "type": "Beginner"}
+    ],
+    "statistics": [
+      {"name": "Statistics with Python Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/statistics-with-python", "type": "Beginner"},
+      {"name": "Statistics and Probability", "platform": "Khan Academy", "url": "https://www.khanacademy.org/math/statistics-probability", "type": "Beginner"}
+    ],
+    "computer vision": [
+      {"name": "Computer Vision by deeplearning.ai", "platform": "Coursera", "url": "https://www.coursera.org/learn/convolutional-neural-networks", "type": "Intermediate"},
+      {"name": "OpenCV Python: Computer Vision with OpenCV", "platform": "Udemy", "url": "https://www.udemy.com/course/python-opencv-computer-vision-face-detection/", "type": "Intermediate"}
+    ],
+    "data structures": [
+      {"name": "Data Structures and Algorithms", "platform": "Coursera", "url": "https://www.coursera.org/specializations/data-structures-algorithms", "type": "Intermediate"},
+      {"name": "Master the Coding Interview: Data Structures + Algorithms", "platform": "Udemy", "url": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/", "type": "Intermediate"}
+    ],
+    "rest apis": [
+      {"name": "REST API Design, Development & Management", "platform": "Udemy", "url": "https://www.udemy.com/course/rest-api/", "type": "Intermediate"},
+      {"name": "API Development with Python", "platform": "Udemy", "url": "https://www.udemy.com/course/building-rest-apis-with-django-rest-framework/", "type": "Intermediate"}
+    ],
+    "html": [
+      {"name": "The Web Developer Bootcamp", "platform": "Udemy", "url": "https://www.udemy.com/course/the-web-developer-bootcamp/", "type": "Beginner"},
+      {"name": "Responsive Web Design", "platform": "freeCodeCamp", "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/", "type": "Beginner"}
+    ],
+    "css": [
+      {"name": "CSS - The Complete Guide (incl. Flexbox, Grid & Sass)", "platform": "Udemy", "url": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/", "type": "Beginner"},
+      {"name": "Responsive Web Design", "platform": "freeCodeCamp", "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/", "type": "Beginner"}
+    ],
+    "excel": [
+      {"name": "Microsoft Excel - Excel from Beginner to Advanced", "platform": "Udemy", "url": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/", "type": "Beginner"},
+      {"name": "Excel Skills for Business Specialization", "platform": "Coursera", "url": "https://www.coursera.org/specializations/excel", "type": "Beginner"}
+    ],
+    "tableau": [
+      {"name": "Tableau 2024 A-Z", "platform": "Udemy", "url": "https://www.udemy.com/course/tableau10/", "type": "Beginner"},
+      {"name": "Data Visualization with Tableau", "platform": "Coursera", "url": "https://www.coursera.org/specializations/data-visualization", "type": "Beginner"}
+    ],
+    "power bi": [
+      {"name": "Microsoft Power BI Desktop for Business Intelligence", "platform": "Udemy", "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/", "type": "Beginner"},
+      {"name": "Power BI Essential Training", "platform": "LinkedIn Learning", "url": "https://www.linkedin.com/learning/power-bi-essential-training", "type": "Beginner"}
+    ],
+    "spark": [
+      {"name": "Apache Spark with Python - Big Data with PySpark", "platform": "Udemy", "url": "https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/", "type": "Intermediate"},
+      {"name": "Big Data Essentials: HDFS, MapReduce and Spark", "platform": "Coursera", "url": "https://www.coursera.org/learn/big-data-essentials", "type": "Intermediate"}
+    ],
+    "mongodb": [
+      {"name": "MongoDB - The Complete Developer's Guide", "platform": "Udemy", "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/", "type": "Intermediate"},
+      {"name": "MongoDB Basics", "platform": "MongoDB University", "url": "https://university.mongodb.com/courses/M001/about", "type": "Beginner"}
+    ],
+    "linux": [
+      {"name": "Linux Command Line Basics", "platform": "Udemy", "url": "https://www.udemy.com/course/linux-command-line-volume1/", "type": "Beginner"},
+      {"name": "The Linux Command Line Bootcamp", "platform": "Udemy", "url": "https://www.udemy.com/course/the-linux-command-line-bootcamp/", "type": "Beginner"}
+    ],
+    "cybersecurity": [
+      {"name": "Google Cybersecurity Certificate", "platform": "Coursera", "url": "https://www.coursera.org/professional-certificates/google-cybersecurity", "type": "Beginner"},
+      {"name": "The Complete Cyber Security Course", "platform": "Udemy", "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/", "type": "Intermediate"}
+    ],
+    "agile": [
+      {"name": "Agile Fundamentals: Including Scrum & Kanban", "platform": "Udemy", "url": "https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/", "type": "Beginner"},
+      {"name": "Agile with Atlassian JIRA", "platform": "Coursera", "url": "https://www.coursera.org/learn/agile-atlassian-jira", "type": "Beginner"}
+    ]
+  }
+}

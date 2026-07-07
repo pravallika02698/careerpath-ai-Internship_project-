@@ -1,0 +1,191 @@
+{
+  "roles": {
+    "Data Scientist": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 20, "unit": "LPA" },
+      "senior": { "min": 20, "max": 40, "unit": "LPA" }
+    },
+    "Data Analyst": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 14, "unit": "LPA" },
+      "senior": { "min": 15, "max": 28, "unit": "LPA" }
+    },
+    "ML Engineer": {
+      "fresher": { "min": 5, "max": 10, "unit": "LPA" },
+      "mid": { "min": 12, "max": 24, "unit": "LPA" },
+      "senior": { "min": 25, "max": 50, "unit": "LPA" }
+    },
+    "AI Engineer": {
+      "fresher": { "min": 5, "max": 10, "unit": "LPA" },
+      "mid": { "min": 12, "max": 25, "unit": "LPA" },
+      "senior": { "min": 25, "max": 55, "unit": "LPA" }
+    },
+    "Deep Learning Engineer": {
+      "fresher": { "min": 5, "max": 10, "unit": "LPA" },
+      "mid": { "min": 12, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 45, "unit": "LPA" }
+    },
+    "NLP Engineer": {
+      "fresher": { "min": 5, "max": 9, "unit": "LPA" },
+      "mid": { "min": 12, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 45, "unit": "LPA" }
+    },
+    "Computer Vision Engineer": {
+      "fresher": { "min": 5, "max": 9, "unit": "LPA" },
+      "mid": { "min": 12, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 45, "unit": "LPA" }
+    },
+    "Full Stack Developer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 20, "unit": "LPA" },
+      "senior": { "min": 20, "max": 40, "unit": "LPA" }
+    },
+    "Frontend Developer": {
+      "fresher": { "min": 3, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 16, "unit": "LPA" },
+      "senior": { "min": 16, "max": 32, "unit": "LPA" }
+    },
+    "Backend Developer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 18, "unit": "LPA" },
+      "senior": { "min": 18, "max": 36, "unit": "LPA" }
+    },
+    "Python Developer": {
+      "fresher": { "min": 3, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 16, "unit": "LPA" },
+      "senior": { "min": 16, "max": 30, "unit": "LPA" }
+    },
+    "Java Developer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 9, "max": 18, "unit": "LPA" },
+      "senior": { "min": 18, "max": 35, "unit": "LPA" }
+    },
+    "Web Developer": {
+      "fresher": { "min": 2.5, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 14, "unit": "LPA" },
+      "senior": { "min": 14, "max": 28, "unit": "LPA" }
+    },
+    "Mobile App Developer": {
+      "fresher": { "min": 3, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 18, "unit": "LPA" },
+      "senior": { "min": 18, "max": 35, "unit": "LPA" }
+    },
+    "Android Developer": {
+      "fresher": { "min": 3, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 16, "unit": "LPA" },
+      "senior": { "min": 16, "max": 32, "unit": "LPA" }
+    },
+    "iOS Developer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 20, "unit": "LPA" },
+      "senior": { "min": 20, "max": 38, "unit": "LPA" }
+    },
+    "DevOps Engineer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 42, "unit": "LPA" }
+    },
+    "Cloud Engineer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 42, "unit": "LPA" }
+    },
+    "AWS Solutions Architect": {
+      "fresher": { "min": 5, "max": 10, "unit": "LPA" },
+      "mid": { "min": 14, "max": 28, "unit": "LPA" },
+      "senior": { "min": 28, "max": 55, "unit": "LPA" }
+    },
+    "Cybersecurity Analyst": {
+      "fresher": { "min": 3.5, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 18, "unit": "LPA" },
+      "senior": { "min": 18, "max": 35, "unit": "LPA" }
+    },
+    "Database Administrator": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 15, "unit": "LPA" },
+      "senior": { "min": 15, "max": 30, "unit": "LPA" }
+    },
+    "Software Engineer": {
+      "fresher": { "min": 4, "max": 9, "unit": "LPA" },
+      "mid": { "min": 10, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 45, "unit": "LPA" }
+    },
+    "Software Tester": {
+      "fresher": { "min": 2.5, "max": 5, "unit": "LPA" },
+      "mid": { "min": 6, "max": 12, "unit": "LPA" },
+      "senior": { "min": 12, "max": 22, "unit": "LPA" }
+    },
+    "QA Engineer": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 14, "unit": "LPA" },
+      "senior": { "min": 14, "max": 26, "unit": "LPA" }
+    },
+    "Data Engineer": {
+      "fresher": { "min": 4, "max": 8, "unit": "LPA" },
+      "mid": { "min": 10, "max": 22, "unit": "LPA" },
+      "senior": { "min": 22, "max": 42, "unit": "LPA" }
+    },
+    "Big Data Engineer": {
+      "fresher": { "min": 4, "max": 9, "unit": "LPA" },
+      "mid": { "min": 12, "max": 24, "unit": "LPA" },
+      "senior": { "min": 24, "max": 45, "unit": "LPA" }
+    },
+    "Blockchain Developer": {
+      "fresher": { "min": 5, "max": 10, "unit": "LPA" },
+      "mid": { "min": 12, "max": 25, "unit": "LPA" },
+      "senior": { "min": 25, "max": 50, "unit": "LPA" }
+    },
+    "Game Developer": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 15, "unit": "LPA" },
+      "senior": { "min": 15, "max": 30, "unit": "LPA" }
+    },
+    "Embedded Systems Engineer": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 15, "unit": "LPA" },
+      "senior": { "min": 15, "max": 30, "unit": "LPA" }
+    },
+    "System Administrator": {
+      "fresher": { "min": 2.5, "max": 5, "unit": "LPA" },
+      "mid": { "min": 6, "max": 12, "unit": "LPA" },
+      "senior": { "min": 12, "max": 24, "unit": "LPA" }
+    },
+    "Network Engineer": {
+      "fresher": { "min": 2.5, "max": 5, "unit": "LPA" },
+      "mid": { "min": 6, "max": 13, "unit": "LPA" },
+      "senior": { "min": 13, "max": 25, "unit": "LPA" }
+    },
+    "Business Analyst": {
+      "fresher": { "min": 3.5, "max": 7, "unit": "LPA" },
+      "mid": { "min": 8, "max": 18, "unit": "LPA" },
+      "senior": { "min": 18, "max": 35, "unit": "LPA" }
+    },
+    "Product Manager": {
+      "fresher": { "min": 6, "max": 12, "unit": "LPA" },
+      "mid": { "min": 15, "max": 30, "unit": "LPA" },
+      "senior": { "min": 30, "max": 60, "unit": "LPA" }
+    },
+    "UI/UX Designer": {
+      "fresher": { "min": 3, "max": 6, "unit": "LPA" },
+      "mid": { "min": 7, "max": 16, "unit": "LPA" },
+      "senior": { "min": 16, "max": 32, "unit": "LPA" }
+    },
+    "Technical Writer": {
+      "fresher": { "min": 2.5, "max": 5, "unit": "LPA" },
+      "mid": { "min": 6, "max": 12, "unit": "LPA" },
+      "senior": { "min": 12, "max": 22, "unit": "LPA" }
+    }
+  },
+  "skill_bonus": {
+    "ranges": [
+      { "min_skills": 0, "max_skills": 5, "multiplier": 0.9 },
+      { "min_skills": 6, "max_skills": 10, "multiplier": 1.0 },
+      { "min_skills": 11, "max_skills": 15, "multiplier": 1.1 },
+      { "min_skills": 16, "max_skills": 999, "multiplier": 1.2 }
+    ]
+  },
+  "certification_bonus": {
+    "per_cert": 0.5,
+    "max_bonus": 2.0
+  }
+}

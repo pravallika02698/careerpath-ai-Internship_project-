@@ -1,0 +1,504 @@
+{
+  "companies": [
+    {
+      "name": "TCS",
+      "full_name": "Tata Consultancy Services",
+      "required_skills": ["Java", "Python", "SQL", "Communication", "Agile", "Problem Solving"],
+      "domains": ["IT Services", "Consulting", "Digital Transformation"],
+      "size": "Large",
+      "career_url": "https://www.tcs.com/careers",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Infosys",
+      "full_name": "Infosys Limited",
+      "required_skills": ["Java", "Python", "SQL", "Cloud Computing", "Communication"],
+      "domains": ["IT Services", "Consulting", "Outsourcing"],
+      "size": "Large",
+      "career_url": "https://www.infosys.com/careers/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Wipro",
+      "full_name": "Wipro Limited",
+      "required_skills": ["Java", "Python", "SQL", "Testing", "Agile"],
+      "domains": ["IT Services", "Consulting", "Business Process Services"],
+      "size": "Large",
+      "career_url": "https://careers.wipro.com/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "HCL",
+      "full_name": "HCL Technologies",
+      "required_skills": ["Java", "C++", "Cloud Computing", "DevOps", "SQL"],
+      "domains": ["IT Services", "Engineering", "Digital Solutions"],
+      "size": "Large",
+      "career_url": "https://www.hcltech.com/careers",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Tech Mahindra",
+      "full_name": "Tech Mahindra Limited",
+      "required_skills": ["Java", "Networking", "Cloud Computing", "SQL", "Communication"],
+      "domains": ["IT Services", "Telecom", "Digital Transformation"],
+      "size": "Large",
+      "career_url": "https://careers.techmahindra.com/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Cognizant",
+      "full_name": "Cognizant Technology Solutions",
+      "required_skills": ["Java", "Python", "SQL", "Agile", "Cloud Computing", "Communication"],
+      "domains": ["IT Services", "Consulting", "Digital Operations"],
+      "size": "Large",
+      "career_url": "https://careers.cognizant.com/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Capgemini",
+      "full_name": "Capgemini SE",
+      "required_skills": ["Java", "Python", "Cloud Computing", "Agile", "SAP"],
+      "domains": ["Consulting", "IT Services", "Digital Engineering"],
+      "size": "Large",
+      "career_url": "https://www.capgemini.com/careers/",
+      "location": "Global",
+      "type": "Service"
+    },
+    {
+      "name": "Accenture",
+      "full_name": "Accenture plc",
+      "required_skills": ["Java", "Python", "Cloud Computing", "Consulting", "Agile", "Communication"],
+      "domains": ["Consulting", "IT Services", "Strategy", "Digital"],
+      "size": "Large",
+      "career_url": "https://www.accenture.com/in-en/careers",
+      "location": "Global",
+      "type": "Service"
+    },
+    {
+      "name": "Mindtree",
+      "full_name": "Mindtree Limited (LTIMindtree)",
+      "required_skills": ["Java", "JavaScript", "Cloud Computing", "Agile", "SQL"],
+      "domains": ["IT Services", "Digital Transformation", "Cloud"],
+      "size": "Large",
+      "career_url": "https://www.ltimindtree.com/careers/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Mphasis",
+      "full_name": "Mphasis Limited",
+      "required_skills": ["Java", "Python", "Cloud Computing", "SQL", "Agile"],
+      "domains": ["IT Services", "Banking & Financial Services", "Cloud"],
+      "size": "Large",
+      "career_url": "https://www.mphasis.com/home/careers.html",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "L&T Infotech",
+      "full_name": "LTIMindtree (formerly L&T Infotech)",
+      "required_skills": ["Java", "Python", "SQL", "Cloud Computing", "Data Analytics"],
+      "domains": ["IT Services", "Digital Solutions", "Analytics"],
+      "size": "Large",
+      "career_url": "https://www.ltimindtree.com/careers/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "Persistent Systems",
+      "full_name": "Persistent Systems Limited",
+      "required_skills": ["Java", "Python", "AWS", "DevOps", "SQL"],
+      "domains": ["Software Product Engineering", "Digital Transformation", "Cloud"],
+      "size": "Mid-Size",
+      "career_url": "https://www.persistent.com/careers/",
+      "location": "India",
+      "type": "Service"
+    },
+    {
+      "name": "ZOHO",
+      "full_name": "Zoho Corporation",
+      "required_skills": ["Java", "JavaScript", "Data Structures", "Algorithms", "Problem Solving"],
+      "domains": ["SaaS", "Enterprise Software", "Cloud Applications"],
+      "size": "Large",
+      "career_url": "https://www.zoho.com/careers.html",
+      "location": "India",
+      "type": "Product"
+    },
+    {
+      "name": "Freshworks",
+      "full_name": "Freshworks Inc.",
+      "required_skills": ["Ruby", "JavaScript", "React", "AWS", "SQL", "Problem Solving"],
+      "domains": ["SaaS", "Customer Engagement", "CRM"],
+      "size": "Mid-Size",
+      "career_url": "https://www.freshworks.com/company/careers/",
+      "location": "India",
+      "type": "Product"
+    },
+    {
+      "name": "Razorpay",
+      "full_name": "Razorpay Software Private Limited",
+      "required_skills": ["Go", "Python", "JavaScript", "SQL", "System Design", "Problem Solving"],
+      "domains": ["Fintech", "Payments", "Banking"],
+      "size": "Mid-Size",
+      "career_url": "https://razorpay.com/careers/",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "PhonePe",
+      "full_name": "PhonePe Private Limited",
+      "required_skills": ["Java", "Kotlin", "System Design", "Distributed Systems", "SQL"],
+      "domains": ["Fintech", "Digital Payments", "Financial Services"],
+      "size": "Large",
+      "career_url": "https://www.phonepe.com/careers/",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Paytm",
+      "full_name": "One97 Communications (Paytm)",
+      "required_skills": ["Java", "Python", "React", "SQL", "System Design"],
+      "domains": ["Fintech", "Digital Payments", "E-commerce"],
+      "size": "Large",
+      "career_url": "https://paytm.com/careers/",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Flipkart",
+      "full_name": "Flipkart Internet Private Limited",
+      "required_skills": ["Java", "Python", "Data Structures", "Algorithms", "System Design", "SQL"],
+      "domains": ["E-commerce", "Supply Chain", "Fintech"],
+      "size": "Large",
+      "career_url": "https://www.flipkartcareers.com/",
+      "location": "India",
+      "type": "Product"
+    },
+    {
+      "name": "Swiggy",
+      "full_name": "Swiggy (Bundl Technologies)",
+      "required_skills": ["Java", "Python", "Kotlin", "System Design", "Data Structures"],
+      "domains": ["Food Delivery", "Quick Commerce", "Logistics"],
+      "size": "Large",
+      "career_url": "https://careers.swiggy.com/",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Zomato",
+      "full_name": "Zomato Limited",
+      "required_skills": ["Python", "Go", "React", "System Design", "SQL", "Data Structures"],
+      "domains": ["Food Delivery", "Restaurant Tech", "Quick Commerce"],
+      "size": "Large",
+      "career_url": "https://www.zomato.com/careers",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "CRED",
+      "full_name": "CRED (Dreamplug Technologies)",
+      "required_skills": ["Kotlin", "Swift", "React", "System Design", "Data Structures"],
+      "domains": ["Fintech", "Credit Card Payments", "Rewards"],
+      "size": "Mid-Size",
+      "career_url": "https://careers.cred.club/",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Dream11",
+      "full_name": "Dream11 (Dream Sports)",
+      "required_skills": ["Java", "Go", "System Design", "Data Structures", "Algorithms"],
+      "domains": ["Gaming", "Fantasy Sports", "Sports Tech"],
+      "size": "Mid-Size",
+      "career_url": "https://www.dreamsports.group/careers",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Ola",
+      "full_name": "Ola (ANI Technologies)",
+      "required_skills": ["Java", "Python", "Go", "System Design", "SQL", "Data Structures"],
+      "domains": ["Ride Hailing", "Electric Vehicles", "Mobility"],
+      "size": "Large",
+      "career_url": "https://www.olacabs.com/careers",
+      "location": "India",
+      "type": "Startup"
+    },
+    {
+      "name": "Google",
+      "full_name": "Google LLC (Alphabet Inc.)",
+      "required_skills": ["Data Structures", "Algorithms", "System Design", "Python", "C++", "Problem Solving"],
+      "domains": ["Search", "Cloud", "AI/ML", "Advertising"],
+      "size": "Large",
+      "career_url": "https://careers.google.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Microsoft",
+      "full_name": "Microsoft Corporation",
+      "required_skills": ["C#", "Python", "Data Structures", "Algorithms", "System Design", "Cloud Computing"],
+      "domains": ["Cloud Computing", "Enterprise Software", "AI", "Gaming"],
+      "size": "Large",
+      "career_url": "https://careers.microsoft.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Amazon",
+      "full_name": "Amazon.com Inc.",
+      "required_skills": ["Java", "Data Structures", "Algorithms", "System Design", "AWS", "Problem Solving"],
+      "domains": ["E-commerce", "Cloud Computing", "AI", "Logistics"],
+      "size": "Large",
+      "career_url": "https://www.amazon.jobs/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Apple",
+      "full_name": "Apple Inc.",
+      "required_skills": ["Swift", "Objective-C", "Data Structures", "Algorithms", "System Design"],
+      "domains": ["Consumer Electronics", "Software", "Services", "AI"],
+      "size": "Large",
+      "career_url": "https://www.apple.com/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Meta",
+      "full_name": "Meta Platforms Inc.",
+      "required_skills": ["Python", "C++", "Data Structures", "Algorithms", "System Design", "React"],
+      "domains": ["Social Media", "VR/AR", "AI", "Advertising"],
+      "size": "Large",
+      "career_url": "https://www.metacareers.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Netflix",
+      "full_name": "Netflix Inc.",
+      "required_skills": ["Java", "Python", "Microservices", "System Design", "Data Structures"],
+      "domains": ["Streaming", "Entertainment", "Content Delivery"],
+      "size": "Large",
+      "career_url": "https://jobs.netflix.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Adobe",
+      "full_name": "Adobe Inc.",
+      "required_skills": ["JavaScript", "C++", "React", "Data Structures", "Algorithms"],
+      "domains": ["Creative Software", "Digital Marketing", "Document Management"],
+      "size": "Large",
+      "career_url": "https://www.adobe.com/careers.html",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Salesforce",
+      "full_name": "Salesforce Inc.",
+      "required_skills": ["Java", "JavaScript", "Apex", "SQL", "REST APIs", "Communication"],
+      "domains": ["CRM", "Cloud Computing", "Enterprise Software"],
+      "size": "Large",
+      "career_url": "https://www.salesforce.com/company/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Oracle",
+      "full_name": "Oracle Corporation",
+      "required_skills": ["Java", "SQL", "PL/SQL", "Cloud Computing", "Data Structures"],
+      "domains": ["Database", "Cloud Infrastructure", "Enterprise Software"],
+      "size": "Large",
+      "career_url": "https://www.oracle.com/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "IBM",
+      "full_name": "International Business Machines Corporation",
+      "required_skills": ["Java", "Python", "Cloud Computing", "AI", "Data Structures"],
+      "domains": ["Cloud Computing", "AI", "Consulting", "Enterprise Solutions"],
+      "size": "Large",
+      "career_url": "https://www.ibm.com/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Intel",
+      "full_name": "Intel Corporation",
+      "required_skills": ["C", "C++", "Computer Architecture", "Linux", "Data Structures"],
+      "domains": ["Semiconductors", "Hardware", "AI", "Autonomous Driving"],
+      "size": "Large",
+      "career_url": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Nvidia",
+      "full_name": "NVIDIA Corporation",
+      "required_skills": ["C++", "CUDA", "Deep Learning", "GPU Programming", "Python", "Linear Algebra"],
+      "domains": ["GPU Computing", "AI/ML", "Gaming", "Autonomous Vehicles"],
+      "size": "Large",
+      "career_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "SAP",
+      "full_name": "SAP SE",
+      "required_skills": ["Java", "ABAP", "SQL", "Cloud Computing", "SAP Modules"],
+      "domains": ["Enterprise Software", "ERP", "Business Intelligence"],
+      "size": "Large",
+      "career_url": "https://www.sap.com/about/careers.html",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "VMware",
+      "full_name": "VMware by Broadcom",
+      "required_skills": ["Python", "Go", "Virtualization", "Networking", "Linux", "Cloud Computing"],
+      "domains": ["Virtualization", "Cloud Infrastructure", "Networking"],
+      "size": "Large",
+      "career_url": "https://www.vmware.com/careers.html",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Cisco",
+      "full_name": "Cisco Systems Inc.",
+      "required_skills": ["Networking", "Python", "C++", "Security", "Linux", "Cloud Computing"],
+      "domains": ["Networking", "Cybersecurity", "Collaboration", "Cloud"],
+      "size": "Large",
+      "career_url": "https://www.cisco.com/c/en/us/about/careers.html",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Uber",
+      "full_name": "Uber Technologies Inc.",
+      "required_skills": ["Go", "Java", "Python", "System Design", "Data Structures", "Algorithms"],
+      "domains": ["Ride Hailing", "Food Delivery", "Freight", "Mobility"],
+      "size": "Large",
+      "career_url": "https://www.uber.com/us/en/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Airbnb",
+      "full_name": "Airbnb Inc.",
+      "required_skills": ["Ruby", "JavaScript", "React", "System Design", "Data Structures"],
+      "domains": ["Travel", "Hospitality", "Marketplace"],
+      "size": "Large",
+      "career_url": "https://careers.airbnb.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Spotify",
+      "full_name": "Spotify Technology S.A.",
+      "required_skills": ["Java", "Python", "Data Engineering", "System Design", "Machine Learning"],
+      "domains": ["Music Streaming", "Podcasts", "Audio"],
+      "size": "Large",
+      "career_url": "https://www.lifeatspotify.com/jobs",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Twitter/X",
+      "full_name": "X Corp (formerly Twitter)",
+      "required_skills": ["Scala", "Java", "Python", "Distributed Systems", "System Design"],
+      "domains": ["Social Media", "Real-time Communication", "Advertising"],
+      "size": "Large",
+      "career_url": "https://careers.twitter.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "LinkedIn",
+      "full_name": "LinkedIn Corporation (Microsoft)",
+      "required_skills": ["Java", "Python", "Data Structures", "Algorithms", "System Design", "REST APIs"],
+      "domains": ["Professional Networking", "Recruitment", "Learning"],
+      "size": "Large",
+      "career_url": "https://careers.linkedin.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Stripe",
+      "full_name": "Stripe Inc.",
+      "required_skills": ["Ruby", "Python", "Go", "System Design", "APIs", "Problem Solving"],
+      "domains": ["Fintech", "Payments", "Financial Infrastructure"],
+      "size": "Large",
+      "career_url": "https://stripe.com/jobs",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Databricks",
+      "full_name": "Databricks Inc.",
+      "required_skills": ["Python", "Spark", "Scala", "Data Engineering", "Machine Learning", "SQL"],
+      "domains": ["Data & AI", "Lakehouse", "Big Data Analytics"],
+      "size": "Large",
+      "career_url": "https://www.databricks.com/company/careers",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Snowflake",
+      "full_name": "Snowflake Inc.",
+      "required_skills": ["C++", "Java", "SQL", "Distributed Systems", "Cloud Computing"],
+      "domains": ["Cloud Data Platform", "Data Warehousing", "Data Sharing"],
+      "size": "Large",
+      "career_url": "https://careers.snowflake.com/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Palantir",
+      "full_name": "Palantir Technologies Inc.",
+      "required_skills": ["Java", "Python", "Data Structures", "Algorithms", "System Design", "Problem Solving"],
+      "domains": ["Data Analytics", "Defense", "Enterprise Analytics"],
+      "size": "Large",
+      "career_url": "https://www.palantir.com/careers/",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "GitHub",
+      "full_name": "GitHub Inc. (Microsoft)",
+      "required_skills": ["Ruby", "Go", "JavaScript", "Git", "System Design", "REST APIs"],
+      "domains": ["Developer Tools", "Version Control", "Collaboration"],
+      "size": "Large",
+      "career_url": "https://github.com/about/careers",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "Atlassian",
+      "full_name": "Atlassian Corporation",
+      "required_skills": ["Java", "JavaScript", "React", "Data Structures", "Algorithms", "REST APIs"],
+      "domains": ["Project Management", "Collaboration", "Developer Tools"],
+      "size": "Large",
+      "career_url": "https://www.atlassian.com/company/careers",
+      "location": "Global",
+      "type": "Product"
+    },
+    {
+      "name": "ServiceNow",
+      "full_name": "ServiceNow Inc.",
+      "required_skills": ["JavaScript", "Java", "ServiceNow Platform", "REST APIs", "SQL"],
+      "domains": ["IT Service Management", "Workflow Automation", "Enterprise Software"],
+      "size": "Large",
+      "career_url": "https://www.servicenow.com/careers.html",
+      "location": "Global",
+      "type": "Product"
+    }
+  ]
+}

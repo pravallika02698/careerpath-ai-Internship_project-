@@ -1,0 +1,284 @@
+{
+  "roles": [
+    {
+      "title": "Data Scientist",
+      "required_skills": ["Python", "Machine Learning", "Statistics", "SQL", "Data Analysis", "Data Visualization"],
+      "preferred_skills": ["Deep Learning", "TensorFlow", "NLP", "Big Data", "Spark", "R"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-20 LPA", "senior": "20-40 LPA"},
+      "description": "Analyzes complex datasets using statistical methods and machine learning to extract actionable insights and drive data-informed decision-making across the organization."
+    },
+    {
+      "title": "Data Analyst",
+      "required_skills": ["SQL", "Excel", "Data Visualization", "Python", "Statistics", "Tableau"],
+      "preferred_skills": ["Power BI", "R", "Google Analytics", "A/B Testing", "Looker"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "7-14 LPA", "senior": "15-25 LPA"},
+      "description": "Collects, processes, and performs statistical analyses on large datasets to identify trends, create reports, and support strategic business decisions with data-driven recommendations."
+    },
+    {
+      "title": "ML Engineer",
+      "required_skills": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Data Structures", "Mathematics", "MLOps"],
+      "preferred_skills": ["Kubernetes", "Docker", "AWS SageMaker", "Model Optimization", "Spark", "CI/CD"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "6-10 LPA", "mid": "14-25 LPA", "senior": "25-50 LPA"},
+      "description": "Designs, builds, and deploys scalable machine learning models into production systems, bridging the gap between data science research and real-world engineering applications."
+    },
+    {
+      "title": "AI Engineer",
+      "required_skills": ["Python", "Deep Learning", "Machine Learning", "TensorFlow", "PyTorch", "Mathematics"],
+      "preferred_skills": ["NLP", "Computer Vision", "Reinforcement Learning", "LLMs", "Generative AI", "MLOps"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "6-12 LPA", "mid": "15-28 LPA", "senior": "30-55 LPA"},
+      "description": "Develops intelligent systems and AI-powered applications leveraging deep learning, neural networks, and cutting-edge research to solve complex real-world problems at scale."
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "required_skills": ["Python", "Deep Learning", "TensorFlow", "PyTorch", "Neural Networks", "Linear Algebra", "Calculus"],
+      "preferred_skills": ["GANs", "Transformers", "CUDA", "Model Compression", "ONNX", "Distributed Training"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "6-12 LPA", "mid": "15-30 LPA", "senior": "30-60 LPA"},
+      "description": "Specializes in designing, training, and optimizing deep neural network architectures for tasks like image recognition, speech processing, and autonomous decision-making systems."
+    },
+    {
+      "title": "NLP Engineer",
+      "required_skills": ["Python", "NLP", "Machine Learning", "Deep Learning", "Transformers", "Linguistics"],
+      "preferred_skills": ["Hugging Face", "spaCy", "BERT", "GPT", "LLMs", "Speech Recognition"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "6-10 LPA", "mid": "14-26 LPA", "senior": "28-50 LPA"},
+      "description": "Builds systems that understand, interpret, and generate human language using advanced NLP techniques, enabling applications like chatbots, translation, and sentiment analysis."
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "required_skills": ["Python", "Computer Vision", "Deep Learning", "OpenCV", "Image Processing", "CNN"],
+      "preferred_skills": ["YOLO", "Object Detection", "3D Vision", "Edge Computing", "TensorRT", "Medical Imaging"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "5-10 LPA", "mid": "12-24 LPA", "senior": "25-50 LPA"},
+      "description": "Develops algorithms and systems that enable machines to interpret visual information from images and videos for applications like autonomous vehicles, surveillance, and medical diagnostics."
+    },
+    {
+      "title": "Full Stack Developer",
+      "required_skills": ["JavaScript", "React", "Node.js", "HTML/CSS", "SQL", "Git", "REST APIs"],
+      "preferred_skills": ["TypeScript", "Docker", "AWS", "MongoDB", "GraphQL", "Redis"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-20 LPA", "senior": "20-40 LPA"},
+      "description": "Builds and maintains both client-side and server-side components of web applications, handling everything from user interfaces to databases and server infrastructure."
+    },
+    {
+      "title": "Frontend Developer",
+      "required_skills": ["JavaScript", "React", "HTML", "CSS", "Responsive Design", "Git"],
+      "preferred_skills": ["TypeScript", "Next.js", "Vue.js", "Webpack", "Testing", "Figma"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Creates visually appealing and highly interactive user interfaces for web applications, ensuring seamless user experiences across browsers, devices, and screen sizes."
+    },
+    {
+      "title": "Backend Developer",
+      "required_skills": ["Python", "Java", "SQL", "REST APIs", "Databases", "Data Structures", "Git"],
+      "preferred_skills": ["Microservices", "Docker", "Kubernetes", "Message Queues", "Redis", "GraphQL"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-20 LPA", "senior": "20-40 LPA"},
+      "description": "Designs and implements server-side logic, APIs, and database architectures that power web and mobile applications, ensuring scalability, security, and high performance."
+    },
+    {
+      "title": "Python Developer",
+      "required_skills": ["Python", "Django", "Flask", "SQL", "REST APIs", "Git", "Data Structures"],
+      "preferred_skills": ["FastAPI", "Celery", "Redis", "Docker", "AWS", "Unit Testing"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Develops robust applications and services using Python frameworks, building everything from web backends and automation scripts to data pipelines and API integrations."
+    },
+    {
+      "title": "Java Developer",
+      "required_skills": ["Java", "Spring Boot", "SQL", "Hibernate", "Data Structures", "REST APIs", "Git"],
+      "preferred_skills": ["Microservices", "Kafka", "Docker", "Kubernetes", "JUnit", "Maven"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-20 LPA", "senior": "20-40 LPA"},
+      "description": "Builds enterprise-grade applications using Java and its ecosystem, developing scalable backend systems, microservices, and distributed computing solutions for large organizations."
+    },
+    {
+      "title": "Web Developer",
+      "required_skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "Git", "Web Performance"],
+      "preferred_skills": ["React", "Bootstrap", "SASS", "PHP", "WordPress", "SEO"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "2-5 LPA", "mid": "6-14 LPA", "senior": "14-28 LPA"},
+      "description": "Designs, develops, and maintains websites and web applications, combining frontend technologies with backend integration to deliver functional and visually engaging digital experiences."
+    },
+    {
+      "title": "Mobile App Developer",
+      "required_skills": ["React Native", "Flutter", "JavaScript", "Mobile UI Design", "REST APIs", "Git"],
+      "preferred_skills": ["Firebase", "Redux", "App Store Deployment", "Push Notifications", "GraphQL", "CI/CD"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Creates cross-platform mobile applications for iOS and Android using modern frameworks, delivering smooth native-like experiences with efficient code sharing across platforms."
+    },
+    {
+      "title": "Android Developer",
+      "required_skills": ["Kotlin", "Java", "Android SDK", "XML", "REST APIs", "SQLite", "Git"],
+      "preferred_skills": ["Jetpack Compose", "MVVM", "Retrofit", "Dagger/Hilt", "Firebase", "Coroutines"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Develops native Android applications using Kotlin and Java, implementing Material Design guidelines to create performant, user-friendly mobile experiences for the Android ecosystem."
+    },
+    {
+      "title": "iOS Developer",
+      "required_skills": ["Swift", "Xcode", "UIKit", "iOS SDK", "REST APIs", "Core Data", "Git"],
+      "preferred_skills": ["SwiftUI", "Combine", "ARKit", "CloudKit", "TestFlight", "CI/CD"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-20 LPA", "senior": "20-40 LPA"},
+      "description": "Builds native iOS applications using Swift and Apple frameworks, crafting polished and intuitive user experiences for iPhone, iPad, and Apple Watch devices."
+    },
+    {
+      "title": "DevOps Engineer",
+      "required_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Git", "Scripting"],
+      "preferred_skills": ["Terraform", "Ansible", "Jenkins", "Prometheus", "Grafana", "Helm"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-22 LPA", "senior": "22-45 LPA"},
+      "description": "Bridges development and operations by automating infrastructure, building CI/CD pipelines, and managing cloud deployments to enable faster, more reliable software delivery."
+    },
+    {
+      "title": "Cloud Engineer",
+      "required_skills": ["AWS", "Azure", "Linux", "Networking", "Docker", "Infrastructure as Code"],
+      "preferred_skills": ["GCP", "Terraform", "Kubernetes", "Serverless", "CloudFormation", "Security"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "4-9 LPA", "mid": "12-24 LPA", "senior": "25-50 LPA"},
+      "description": "Designs, deploys, and manages cloud infrastructure and services, ensuring high availability, cost optimization, and security across multi-cloud and hybrid environments."
+    },
+    {
+      "title": "AWS Solutions Architect",
+      "required_skills": ["AWS", "Cloud Architecture", "Networking", "Security", "Infrastructure as Code", "Linux"],
+      "preferred_skills": ["AWS Certification", "Multi-Cloud", "Microservices", "Serverless", "Cost Optimization", "Well-Architected Framework"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "6-12 LPA", "mid": "15-30 LPA", "senior": "30-60 LPA"},
+      "description": "Designs and oversees the implementation of scalable, resilient, and cost-effective cloud architectures on AWS, aligning technical solutions with business objectives and compliance requirements."
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "required_skills": ["Network Security", "SIEM", "Vulnerability Assessment", "Linux", "Firewalls", "Incident Response"],
+      "preferred_skills": ["Penetration Testing", "SOC", "Ethical Hacking", "Compliance", "Cloud Security", "CISSP"],
+      "category": "Cybersecurity",
+      "salary_range": {"fresher": "4-8 LPA", "mid": "10-22 LPA", "senior": "22-45 LPA"},
+      "description": "Protects organizational systems and data by monitoring for threats, conducting vulnerability assessments, and implementing security measures to prevent cyber attacks and data breaches."
+    },
+    {
+      "title": "Database Administrator",
+      "required_skills": ["SQL", "Database Design", "MySQL", "PostgreSQL", "Performance Tuning", "Backup & Recovery"],
+      "preferred_skills": ["MongoDB", "Oracle", "Cloud Databases", "Replication", "Data Migration", "Redis"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "8-16 LPA", "senior": "16-32 LPA"},
+      "description": "Manages, optimizes, and secures organizational databases, ensuring data integrity, high availability, and optimal performance for mission-critical applications and reporting systems."
+    },
+    {
+      "title": "Software Engineer",
+      "required_skills": ["Data Structures", "Algorithms", "OOP", "Git", "Problem Solving", "System Design"],
+      "preferred_skills": ["Design Patterns", "Agile", "Code Review", "Testing", "CI/CD", "Microservices"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "4-10 LPA", "mid": "12-25 LPA", "senior": "25-50 LPA"},
+      "description": "Designs, develops, tests, and maintains software systems across the full development lifecycle, applying engineering principles to build reliable and scalable solutions."
+    },
+    {
+      "title": "Software Tester",
+      "required_skills": ["Manual Testing", "Test Case Design", "Bug Tracking", "SDLC", "STLC", "Regression Testing"],
+      "preferred_skills": ["Selenium", "JIRA", "API Testing", "Performance Testing", "Agile", "SQL"],
+      "category": "Quality Assurance",
+      "salary_range": {"fresher": "2-5 LPA", "mid": "6-12 LPA", "senior": "12-22 LPA"},
+      "description": "Ensures software quality by designing and executing test plans, identifying defects, and verifying that applications meet functional and performance requirements before release."
+    },
+    {
+      "title": "QA Engineer",
+      "required_skills": ["Test Automation", "Selenium", "Python", "CI/CD", "API Testing", "Test Frameworks"],
+      "preferred_skills": ["Cypress", "Appium", "Performance Testing", "JMeter", "Docker", "BDD/TDD"],
+      "category": "Quality Assurance",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "8-16 LPA", "senior": "16-30 LPA"},
+      "description": "Develops and maintains automated testing frameworks and strategies, building robust test suites that ensure software reliability, performance, and quality at every stage of development."
+    },
+    {
+      "title": "Data Engineer",
+      "required_skills": ["Python", "SQL", "ETL", "Data Warehousing", "Apache Spark", "Data Modeling"],
+      "preferred_skills": ["Airflow", "Kafka", "Snowflake", "dbt", "AWS Glue", "Data Lake"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "5-9 LPA", "mid": "12-22 LPA", "senior": "22-45 LPA"},
+      "description": "Builds and maintains the data infrastructure, pipelines, and architectures that enable organizations to collect, store, transform, and serve data for analytics and machine learning."
+    },
+    {
+      "title": "Big Data Engineer",
+      "required_skills": ["Hadoop", "Spark", "Python", "SQL", "Hive", "Data Pipelines", "Distributed Systems"],
+      "preferred_skills": ["Kafka", "Flink", "Cassandra", "HBase", "Presto", "Cloud Data Services"],
+      "category": "Data Science",
+      "salary_range": {"fresher": "5-10 LPA", "mid": "12-24 LPA", "senior": "25-50 LPA"},
+      "description": "Designs and implements large-scale data processing systems using distributed computing frameworks, handling petabyte-scale datasets for real-time and batch analytics workloads."
+    },
+    {
+      "title": "Blockchain Developer",
+      "required_skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Cryptography", "Data Structures"],
+      "preferred_skills": ["DeFi", "NFTs", "Hyperledger", "Rust", "IPFS", "Layer 2 Solutions"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "5-10 LPA", "mid": "12-25 LPA", "senior": "25-55 LPA"},
+      "description": "Develops decentralized applications and smart contracts on blockchain platforms, building secure and transparent solutions for finance, supply chain, and digital asset management."
+    },
+    {
+      "title": "Game Developer",
+      "required_skills": ["C++", "Unity", "Game Physics", "3D Mathematics", "Data Structures", "OOP"],
+      "preferred_skills": ["Unreal Engine", "C#", "Shader Programming", "Multiplayer Networking", "VR/AR", "Game AI"],
+      "category": "Software Development",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-40 LPA"},
+      "description": "Creates interactive video games and gaming experiences using game engines and programming, implementing mechanics, physics, AI, and graphics for entertainment and simulation platforms."
+    },
+    {
+      "title": "Embedded Systems Engineer",
+      "required_skills": ["C", "C++", "Embedded C", "Microcontrollers", "RTOS", "Hardware Interfacing"],
+      "preferred_skills": ["ARM", "IoT", "FPGA", "PCB Design", "Communication Protocols", "Linux Kernel"],
+      "category": "Hardware & Embedded",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Develops software for embedded hardware systems including microcontrollers and IoT devices, optimizing code for resource-constrained environments in automotive, medical, and consumer electronics."
+    },
+    {
+      "title": "System Administrator",
+      "required_skills": ["Linux", "Windows Server", "Networking", "Scripting", "Active Directory", "Virtualization"],
+      "preferred_skills": ["Ansible", "PowerShell", "VMware", "Monitoring Tools", "Cloud Administration", "Backup Solutions"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "7-14 LPA", "senior": "14-28 LPA"},
+      "description": "Manages and maintains server infrastructure, operating systems, and enterprise applications, ensuring system uptime, security, and optimal performance for organizational IT operations."
+    },
+    {
+      "title": "Network Engineer",
+      "required_skills": ["Networking", "TCP/IP", "Routing & Switching", "Firewalls", "DNS/DHCP", "Network Security"],
+      "preferred_skills": ["CCNA/CCNP", "SD-WAN", "VPN", "Load Balancers", "Network Automation", "Wireshark"],
+      "category": "Infrastructure & Cloud",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "7-16 LPA", "senior": "16-32 LPA"},
+      "description": "Designs, implements, and manages computer networks including LANs, WANs, and cloud networks, ensuring reliable connectivity, security, and high performance across the organization."
+    },
+    {
+      "title": "Business Analyst",
+      "required_skills": ["Requirements Gathering", "Data Analysis", "SQL", "Documentation", "Communication", "Problem Solving"],
+      "preferred_skills": ["JIRA", "Agile", "Tableau", "Power BI", "UML", "Stakeholder Management"],
+      "category": "Management & Strategy",
+      "salary_range": {"fresher": "3-7 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Bridges business needs and technical solutions by analyzing processes, gathering requirements, and translating stakeholder needs into actionable specifications for development teams."
+    },
+    {
+      "title": "Product Manager",
+      "required_skills": ["Product Strategy", "User Research", "Roadmapping", "Data Analysis", "Communication", "Prioritization"],
+      "preferred_skills": ["A/B Testing", "SQL", "Agile/Scrum", "Wireframing", "OKRs", "Market Analysis"],
+      "category": "Management & Strategy",
+      "salary_range": {"fresher": "6-12 LPA", "mid": "15-30 LPA", "senior": "30-60 LPA"},
+      "description": "Drives product vision and strategy by understanding market needs, defining product roadmaps, and collaborating with cross-functional teams to deliver products that users love."
+    },
+    {
+      "title": "UI/UX Designer",
+      "required_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Visual Design", "Usability Testing"],
+      "preferred_skills": ["Adobe XD", "Design Systems", "Interaction Design", "HTML/CSS", "Motion Design", "Accessibility"],
+      "category": "Design",
+      "salary_range": {"fresher": "3-6 LPA", "mid": "8-18 LPA", "senior": "18-35 LPA"},
+      "description": "Creates intuitive and visually compelling digital experiences by conducting user research, designing interfaces, and prototyping solutions that balance aesthetics with usability."
+    },
+    {
+      "title": "Technical Writer",
+      "required_skills": ["Technical Writing", "Documentation", "Markdown", "API Documentation", "Editing", "Research"],
+      "preferred_skills": ["DITA", "Git", "Swagger/OpenAPI", "Content Management", "Diagramming", "Video Tutorials"],
+      "category": "Content & Documentation",
+      "salary_range": {"fresher": "3-5 LPA", "mid": "6-12 LPA", "senior": "12-22 LPA"},
+      "description": "Creates clear, comprehensive technical documentation including user guides, API references, and knowledge bases, making complex technical concepts accessible to diverse audiences."
+    }
+  ]
+}
